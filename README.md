@@ -4,9 +4,6 @@
 
 This repository contains the official implementation for the paper: **Zoom-Refine: Boosting High-Resolution Multimodal Understanding via Localized Zoom and Self-Refinement**.
 
-Anonymous Author(s)
-NeurIPS 2025 
-
 ## Abstract
 
 Multimodal Large Language Models (MLLMs) often struggle to interpret high-resolution images accurately, where fine-grained details are crucial for complex visual understanding. We introduce Zoom-Refine, a novel training-free method that enhances MLLM capabilities to address this issue. Zoom-Refine operates through a synergistic process of **Localized Zoom** and **Self-Refinement**. In the *Localized Zoom* step, Zoom-Refine leverages the MLLM to provide a preliminary response to an input query and identifies the most task-relevant image region by predicting its bounding box coordinates. During the *Self-Refinement* step, Zoom-Refine then integrates fine-grained details from the high-resolution crop (identified by Localized Zoom) with its initial reasoning to re-evaluate and refine its preliminary response. Our method harnesses the MLLM's inherent capabilities for spatial localization, contextual reasoning, and comparative analysis without requiring additional training or external experts. Comprehensive experiments demonstrate the efficacy of Zoom-Refine on two challenging high-resolution multimodal benchmarks.
@@ -18,6 +15,12 @@ Zoom-Refine enhances MLLM understanding of high-resolution images in a two-step,
 1.  **Localized Zoom:** The MLLM first processes a downsampled version of the image and the textual query to provide an initial answer and predict bounding box coordinates for the most task-relevant region.
 2.  **Self-Refinement:** A high-resolution crop is extracted from the original image based on the predicted bounding box. This crop, along with the initial context (original query, downsampled image, initial answer), is fed back to the MLLM, which then re-evaluates and refines its answer.
 
+## Examples
+
+<p align="center">
+    <img src="./asset/Example.jpg" width="100%" height="100%">
+</p>
+Representative examples from the MME-Realworld benchmark show InternVL3-78B with our method (answers in blue) achieving correct deductions where InternVL3-78B without our method(answers in red) fails.
 
 ## 📦 Preparation
 ### 1.MLLM checkpoints
