@@ -14,11 +14,14 @@ Zoom-Refine enhances MLLM understanding of high-resolution images in a two-step,
 
 1.  **Localized Zoom:** The MLLM first processes a downsampled version of the image and the textual query to provide an initial answer and predict bounding box coordinates for the most task-relevant region.
 2.  **Self-Refinement:** A high-resolution crop is extracted from the original image based on the predicted bounding box. This crop, along with the initial context (original query, downsampled image, initial answer), is fed back to the MLLM, which then re-evaluates and refines its answer.
+<p align="center">
+    <img src="./asset/architecture.jpg" width="80%" height="80%">
+</p>
 
-## Examples
+## 💡Examples
 
 <p align="center">
-    <img src="./asset/Example.jpg" width="100%" height="100%">
+    <img src="./asset/Example.jpg" width="80%" height="80%">
 </p>
 Representative examples from the MME-Realworld benchmark show InternVL3-78B with our method (answers in blue) achieving correct deductions where InternVL3-78B without our method(answers in red) fails.
 
@@ -53,7 +56,7 @@ The preprocessing scripts will convert the benchmark data into the following sta
 Select the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option. 
 The best answer is:
 ```
-## 🛠️Installation
+## 🔧Installation
 
 1.  **Clone the repository:**
     ```bash
