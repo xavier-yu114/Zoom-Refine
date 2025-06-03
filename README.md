@@ -1,6 +1,7 @@
 #  <img src="asset/logo.png" alt="Example Image" width="45" style="margin-bottom:-50px"/> Zoom-Refine: Boosting High-Resolution Multimodal Understanding via Localized Zoom and Self-Refinement
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.01663-red.svg)](https://arxiv.org/abs/2506.01663)
 
 This repository contains the official implementation for the paper: **Zoom-Refine: Boosting High-Resolution Multimodal Understanding via Localized Zoom and Self-Refinement**.
 
