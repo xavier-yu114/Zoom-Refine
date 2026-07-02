@@ -130,3 +130,10 @@ After you get your evaluation results,you can use `evaluation/eval_acc.py` to ca
    python zoomrefine/ZoomRefine_Base.py
    ```
 After you get your evaluation results,you can use `zoomrefine/zoomrefine_acc.py` to calculate the accuracy from the Zoom-Refine prediction files.
+
+## 📝 Dataset Annotations
+
+To facilitate future research on high-resolution multimodal reasoning, the `ZR_Annotation` folder provides newly constructed bounding box (Bbox) annotations for the task-relevant regions corresponding to the questions in the **MME-RealWorld reasoning tasks**. 
+
+Since the original MME-RealWorld benchmark only provides question-answer pairs without intermediate bounding box annotations, we conducted a rigorous human-in-the-loop annotation process for all 2,842 images in the reasoning split. These highly reliable ground truth boxes are publicly released here to help researchers evaluate the intermediate localization performance of their methods.
+```
