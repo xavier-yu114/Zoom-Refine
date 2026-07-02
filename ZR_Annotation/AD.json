@@ -1,0 +1,2102 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is not moving.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915322512465.jpg"
+    ],
+    "bbox": [
+      0.22,
+      0.54,
+      0.74,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915328012465.jpg"
+    ],
+    "bbox": [
+      0.3,
+      0.44,
+      0.73,
+      0.9
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is going straight. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915423512465.jpg"
+    ],
+    "bbox": [
+      0.12,
+      0.49,
+      0.67,
+      0.92
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915618912465.jpg"
+    ],
+    "bbox": [
+      0.2,
+      0.45,
+      0.82,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915647912465.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.47,
+      0.83,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915675162465.jpg"
+    ],
+    "bbox": [
+      0.2,
+      0.52,
+      0.84,
+      0.92
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915709862465.jpg"
+    ],
+    "bbox": [
+      0.18,
+      0.45,
+      0.78,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-05-21-11-06-59-0400__CAM_FRONT__1526915734912465.jpg"
+    ],
+    "bbox": [
+      0.17,
+      0.49,
+      0.87,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-07-57+0800__CAM_FRONT__1531883547512473.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.44,
+      0.8,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-07-57+0800__CAM_FRONT__1531883724412465.jpg"
+    ],
+    "bbox": [
+      0.12,
+      0.44,
+      0.65,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884173912465.jpg"
+    ],
+    "bbox": [
+      0.07,
+      0.52,
+      0.68,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884269612466.jpg"
+    ],
+    "bbox": [
+      0.24,
+      0.43,
+      0.76,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is going straight. The ego vehicle is not moving.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-18-34+0800__CAM_FRONT__1531884290162460.jpg"
+    ],
+    "bbox": [
+      0.08,
+      0.52,
+      0.7,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885867912470.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.45,
+      0.77,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885915662460.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.52,
+      0.86,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885922112465.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.44,
+      0.79,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531885992512466.jpg"
+    ],
+    "bbox": [
+      0.17,
+      0.49,
+      0.71,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886016862460.jpg"
+    ],
+    "bbox": [
+      0.15,
+      0.47,
+      0.71,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886024912499.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.42,
+      0.72,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886121412465.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.47,
+      0.86,
+      0.92
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886128412465.jpg"
+    ],
+    "bbox": [
+      0.32,
+      0.53,
+      0.76,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886140012465.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.46,
+      0.77,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886144912468.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.44,
+      0.7,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886168762460.jpg"
+    ],
+    "bbox": [
+      0.08,
+      0.43,
+      0.77,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is not moving.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886198912463.jpg"
+    ],
+    "bbox": [
+      0.13,
+      0.44,
+      0.78,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886228412465.jpg"
+    ],
+    "bbox": [
+      0.2,
+      0.47,
+      0.87,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886254012462.jpg"
+    ],
+    "bbox": [
+      0.12,
+      0.47,
+      0.64,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886388112461.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.44,
+      0.77,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-03-52+0800__CAM_FRONT__1532401492662460.jpg"
+    ],
+    "bbox": [
+      0.09,
+      0.49,
+      0.68,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-03-52+0800__CAM_FRONT__1532401762662460.jpg"
+    ],
+    "bbox": [
+      0.24,
+      0.43,
+      0.72,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402164162460.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.49,
+      0.62,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402187762460.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.44,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402294612460.jpg"
+    ],
+    "bbox": [
+      0.07,
+      0.46,
+      0.68,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402314162460.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.44,
+      0.74,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402336512460.jpg"
+    ],
+    "bbox": [
+      0.35,
+      0.46,
+      0.93,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402419012460.jpg"
+    ],
+    "bbox": [
+      0.26,
+      0.45,
+      0.74,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402428662460.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.45,
+      0.83,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-13-19+0800__CAM_FRONT__1532402477262460.jpg"
+    ],
+    "bbox": [
+      0.17,
+      0.46,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402725412460.jpg"
+    ],
+    "bbox": [
+      0.15,
+      0.44,
+      0.73,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402734412460.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.45,
+      0.8,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402743912460.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.43,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402751662460.jpg"
+    ],
+    "bbox": [
+      0.29,
+      0.45,
+      0.88,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402817612460.jpg"
+    ],
+    "bbox": [
+      0.08,
+      0.46,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-24-11-22-45+0800__CAM_FRONT__1532402824512460.jpg"
+    ],
+    "bbox": [
+      0.15,
+      0.47,
+      0.85,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621749612404.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.49,
+      0.75,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving fast.\n(D) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621789662404.jpg"
+    ],
+    "bbox": [
+      0.27,
+      0.49,
+      0.7,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621810612404.jpg"
+    ],
+    "bbox": [
+      0.09,
+      0.49,
+      0.83,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621824412404.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.44,
+      0.72,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621953112404.jpg"
+    ],
+    "bbox": [
+      0.15,
+      0.46,
+      0.73,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621977612404.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.49,
+      0.7,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-26-12-13-50-0400__CAM_FRONT__1532621985662404.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.49,
+      0.78,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-24-31+0800__CAM_FRONT__1532661927412460.jpg"
+    ],
+    "bbox": [
+      0.29,
+      0.44,
+      0.81,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-24-31+0800__CAM_FRONT__1532662092362460.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.42,
+      0.82,
+      0.92
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-24-31+0800__CAM_FRONT__1532662220862460.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.44,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662708912460.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.46,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662749912460.jpg"
+    ],
+    "bbox": [
+      0.27,
+      0.46,
+      0.85,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662766512460.jpg"
+    ],
+    "bbox": [
+      0.12,
+      0.55,
+      0.65,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662817262460.jpg"
+    ],
+    "bbox": [
+      0.29,
+      0.44,
+      0.81,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532662845512460.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.44,
+      0.79,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532663011912460.jpg"
+    ],
+    "bbox": [
+      0.07,
+      0.49,
+      0.65,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-07-27-11-36-48+0800__CAM_FRONT__1532663153162460.jpg"
+    ],
+    "bbox": [
+      0.12,
+      0.42,
+      0.74,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is not moving.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-07-27-12-07-38-0400__CAM_FRONT__1532708437862404.jpg"
+    ],
+    "bbox": [
+      0.07,
+      0.49,
+      0.68,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107668012460.jpg"
+    ],
+    "bbox": [
+      0.35,
+      0.47,
+      0.88,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107669012460.jpg"
+    ],
+    "bbox": [
+      0.21,
+      0.44,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107704012460.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.44,
+      0.8,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is going straight. The ego vehicle is not moving.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107755862460.jpg"
+    ],
+    "bbox": [
+      0.27,
+      0.44,
+      0.81,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107908912460.jpg"
+    ],
+    "bbox": [
+      0.26,
+      0.46,
+      0.87,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-15-10-21+0800__CAM_FRONT__1533107917862460.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.42,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112537162460.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.43,
+      0.82,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112549112460.jpg"
+    ],
+    "bbox": [
+      0.07,
+      0.46,
+      0.61,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112707162460.jpg"
+    ],
+    "bbox": [
+      0.27,
+      0.47,
+      0.67,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is going straight. The ego vehicle is not moving.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112845162460.jpg"
+    ],
+    "bbox": [
+      0.24,
+      0.44,
+      0.76,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-32-59+0800__CAM_FRONT__1533112851662460.jpg"
+    ],
+    "bbox": [
+      0.34,
+      0.46,
+      0.86,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-16-41-59+0800__CAM_FRONT__1533112982912460.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.44,
+      0.82,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114270162460.jpg"
+    ],
+    "bbox": [
+      0.1,
+      0.44,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114280162460.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.44,
+      0.77,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114282662460.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.44,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114329662460.jpg"
+    ],
+    "bbox": [
+      0.18,
+      0.45,
+      0.84,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-04-15+0800__CAM_FRONT__1533114559612460.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.46,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-13-57+0800__CAM_FRONT__1533114919512460.jpg"
+    ],
+    "bbox": [
+      0.08,
+      0.49,
+      0.74,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-01-17-13-57+0800__CAM_FRONT__1533115039262460.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.42,
+      0.77,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153252762404.jpg"
+    ],
+    "bbox": [
+      0.28,
+      0.43,
+      0.72,
+      0.92
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153346762404.jpg"
+    ],
+    "bbox": [
+      0.18,
+      0.46,
+      0.84,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153432162406.jpg"
+    ],
+    "bbox": [
+      0.26,
+      0.44,
+      0.86,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153481762404.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.52,
+      0.82,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153518262404.jpg"
+    ],
+    "bbox": [
+      0.13,
+      0.46,
+      0.83,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153524662404.jpg"
+    ],
+    "bbox": [
+      0.17,
+      0.44,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is not moving.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153530662404.jpg"
+    ],
+    "bbox": [
+      0.13,
+      0.45,
+      0.83,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153555362404.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.46,
+      0.81,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is going straight. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is steering to the left. The ego vehicle is driving fast.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153647412404.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.52,
+      0.69,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is going straight. The ego vehicle is not moving.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153748162404.jpg"
+    ],
+    "bbox": [
+      0.13,
+      0.49,
+      0.77,
+      0.97
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(C) The ego vehicle is going straight. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the left. The ego vehicle is driving very fast.\n(D) None of the above\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "E"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n008-2018-08-01-15-52-19-0400__CAM_FRONT__1533153761512404.jpg"
+    ],
+    "bbox": [
+      0.26,
+      0.47,
+      0.72,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202211662460.jpg"
+    ],
+    "bbox": [
+      0.08,
+      0.44,
+      0.7,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(D) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202480162460.jpg"
+    ],
+    "bbox": [
+      0.25,
+      0.44,
+      0.81,
+      0.94
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving fast.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(C) The ego vehicle is going straight. The ego vehicle is driving fast.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving very fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202558862460.jpg"
+    ],
+    "bbox": [
+      0.14,
+      0.45,
+      0.86,
+      0.93
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is going straight. The ego vehicle is driving fast.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(D) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-02-17-28-51+0800__CAM_FRONT__1533202764112460.jpg"
+    ],
+    "bbox": [
+      0.16,
+      0.45,
+      0.78,
+      0.95
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(C) The ego vehicle is steering to the right. The ego vehicle is driving slowly.\n(D) The ego vehicle is going straight. The ego vehicle is driving fast.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-03-15-00-36+0800__CAM_FRONT__1533279684662460.jpg"
+    ],
+    "bbox": [
+      0.09,
+      0.46,
+      0.65,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is slightly steering to the right. The ego vehicle is driving slowly.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-03-15-00-36+0800__CAM_FRONT__1533279701862460.jpg"
+    ],
+    "bbox": [
+      0.2,
+      0.46,
+      0.8,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(B) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(C) The ego vehicle is steering to the left. The ego vehicle is driving very fast.\n(D) The ego vehicle is going straight. The ego vehicle is driving slowly.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-03-15-00-36+0800__CAM_FRONT__1533279752112460.jpg"
+    ],
+    "bbox": [
+      0.15,
+      0.44,
+      0.75,
+      0.96
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "This image shows the front view of the ego car. Predict the behavior of the ego vehicle.The choices are listed below:\n(A) The ego vehicle is steering to the left. The ego vehicle is driving slowly.\n(B) The ego vehicle is going straight. The ego vehicle is driving very fast.\n(C) The ego vehicle is slightly steering to the right. The ego vehicle is driving fast.\n(D) The ego vehicle is slightly steering to the right. The ego vehicle is driving with normal speed.\n(E) All the above answers are wrong.\nSelect the best answer to the above multiple-choice question based on the image. Respond with only the letter (A, B, C, D, or E) of the correct option\nThe best answer is:."
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "AutonomousDriving/nuScenes/n015-2018-08-03-15-00-36+0800__CAM_FRONT__1533279787412468.jpg"
+    ],
+    "bbox": [
+      0.19,
+      0.44,
+      0.77,
+      0.96
+    ]
+  }
+]
