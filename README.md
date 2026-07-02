@@ -61,7 +61,7 @@ The best answer is:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/xavier-yu114/NIPS2025.git
+    git clone https://github.com/xavier-yu114/Zoom-Refine.git
     cd Zoom-Refine
     ```
 
@@ -136,4 +136,3 @@ After you get your evaluation results,you can use `zoomrefine/zoomrefine_acc.py`
 To facilitate future research on high-resolution multimodal reasoning, the `ZR_Annotation` folder provides newly constructed bounding box (Bbox) annotations for the task-relevant regions corresponding to the questions in the **MME-RealWorld reasoning tasks**. 
 
 Since the original MME-RealWorld benchmark only provides question-answer pairs without intermediate bounding box annotations, we conducted a rigorous human-in-the-loop annotation process for all 2,842 images in the reasoning split. These highly reliable ground truth boxes are publicly released here to help researchers evaluate the intermediate localization performance of their methods.
-```
